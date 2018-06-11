@@ -1,0 +1,36 @@
+Manifest-Version: 1.0
+Class-Path: libs/slf4j-api-1.7.25.jar libs/classmate-1.3.4.jar libs/to
+ mcat-embed-websocket-8.5.27.jar libs/dom4j-1.6.1.jar libs/spring-core
+ -4.3.14.RELEASE.jar libs/hibernate-jpa-2.1-api-1.0.0.Final.jar libs/s
+ pring-webmvc-4.3.14.RELEASE.jar libs/javax.transaction-api-1.2.jar li
+ bs/hibernate-entitymanager-5.0.12.Final.jar libs/metrics-core-2.2.0.j
+ ar libs/jboss-logging-3.3.1.Final.jar libs/spring-boot-starter-web-1.
+ 5.10.RELEASE.jar libs/spring-boot-starter-data-jpa-1.5.10.RELEASE.jar
+  libs/spring-boot-1.5.10.RELEASE.jar libs/kafka-clients-0.10.2.0.jar 
+ libs/spring-boot-starter-aop-1.5.10.RELEASE.jar libs/spring-aop-4.3.1
+ 4.RELEASE.jar libs/zkclient-0.10.jar libs/tomcat-annotations-api-8.5.
+ 27.jar libs/jackson-core-2.8.10.jar libs/snakeyaml-1.17.jar libs/spri
+ ng-aspects-4.3.14.RELEASE.jar libs/kafka_2.10-0.10.2.0.jar libs/tomca
+ t-embed-el-8.5.27.jar libs/jcl-over-slf4j-1.7.25.jar libs/jopt-simple
+ -5.0.3.jar libs/jackson-databind-2.8.10.jar libs/lz4-1.3.0.jar libs/s
+ pring-tx-4.3.14.RELEASE.jar libs/spring-boot-starter-tomcat-1.5.10.RE
+ LEASE.jar libs/javassist-3.21.0-GA.jar libs/jackson-annotations-2.8.0
+ .jar libs/validation-api-1.1.0.Final.jar libs/hibernate-commons-annot
+ ations-5.0.1.Final.jar libs/tomcat-juli-8.5.27.jar libs/aspectjweaver
+ -1.8.13.jar libs/logback-classic-1.1.11.jar libs/hibernate-core-5.0.1
+ 2.Final.jar libs/log4j-over-slf4j-1.7.25.jar libs/spring-context-4.3.
+ 14.RELEASE.jar libs/spring-boot-starter-1.5.10.RELEASE.jar libs/sprin
+ g-boot-autoconfigure-1.5.10.RELEASE.jar libs/logback-core-1.1.11.jar 
+ libs/jandex-2.0.0.Final.jar libs/log4j-1.2.15.jar libs/slf4j-log4j12-
+ 1.7.25.jar libs/jul-to-slf4j-1.7.25.jar libs/spring-web-4.3.14.RELEAS
+ E.jar libs/snappy-java-1.1.2.6.jar libs/spring-boot-starter-logging-1
+ .5.10.RELEASE.jar libs/hibernate-validator-5.3.6.Final.jar libs/sprin
+ g-data-jpa-1.11.10.RELEASE.jar libs/spring-orm-4.3.14.RELEASE.jar lib
+ s/spring-beans-4.3.14.RELEASE.jar libs/spring-boot-starter-jdbc-1.5.1
+ 0.RELEASE.jar libs/zookeeper-3.4.9.jar libs/antlr-2.7.7.jar libs/spri
+ ng-expression-4.3.14.RELEASE.jar libs/mysql-connector-java-5.1.45.jar
+  libs/tomcat-jdbc-8.5.27.jar libs/tomcat-embed-core-8.5.27.jar libs/s
+ pring-data-commons-1.13.10.RELEASE.jar libs/spring-jdbc-4.3.14.RELEAS
+ E.jar libs/scala-library-2.10.6.jar
+Main-Class: com.dkx.search.DemoApplication
+
